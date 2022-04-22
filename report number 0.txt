@@ -1,0 +1,14 @@
+20008 33.0 
+	Tenant: Piotr Poroshenko 42312312 Dzielna                 Starting item 10.0
+                  Starting item2 20.0
+ 
+20007 300.0 
+	Tenant: Piotr Poroshenko 42312312 Dzielna                 Starting item 10.0
+                  Starting item2 20.0
+ 
+20006 384.0 
+	Tenant: Piotr Poroshenko 42312312 Dzielna20009 512.0 
+	Tenant: Piotr Poroshenko 42312312 Dzielna10000 1000.0 
+	Tenant: Rinat Akhmetov 12312312 Konarskiego[]
+[]20005 1152.0 
+	Tenant: Piotr Poroshenko 42312312 Dzielna
